@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lifeaafter
 - 👀 I’m interested in game design/developing
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on -
+- 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me dpsd17068@syros.aegean.gr
 
 <!---
