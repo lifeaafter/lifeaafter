@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lifeaafter
+- 👋 Hi, I’m Zoi Metaxa
 - 👀 I’m interested in game design/developing
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ---
